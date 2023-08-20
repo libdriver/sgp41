@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['debug_5fprint_2',['debug_print',['../structsgp41__handle__s.html#a769d5b3a6c14790a0e126e8fe70b384b',1,'sgp41_handle_s']]],
+  ['default_5fsampling_5finterval_3',['DEFAULT_SAMPLING_INTERVAL',['../driver__sgp41__algorithm_8c.html#a873a399dc0f41ffbf296355004f58960',1,'driver_sgp41_algorithm.c']]],
+  ['delay_5fms_4',['delay_ms',['../structsgp41__handle__s.html#a406c9433252b7366de417b7a60915c81',1,'sgp41_handle_s']]],
+  ['driver_5fsgp41_2ec_5',['driver_sgp41.c',['../driver__sgp41_8c.html',1,'']]],
+  ['driver_5fsgp41_2eh_6',['driver_sgp41.h',['../driver__sgp41_8h.html',1,'']]],
+  ['driver_5fsgp41_5falgorithm_2ec_7',['driver_sgp41_algorithm.c',['../driver__sgp41__algorithm_8c.html',1,'']]],
+  ['driver_5fsgp41_5falgorithm_2eh_8',['driver_sgp41_algorithm.h',['../driver__sgp41__algorithm_8h.html',1,'']]],
+  ['driver_5fsgp41_5fbasic_2ec_9',['driver_sgp41_basic.c',['../driver__sgp41__basic_8c.html',1,'']]],
+  ['driver_5fsgp41_5fbasic_2eh_10',['driver_sgp41_basic.h',['../driver__sgp41__basic_8h.html',1,'']]],
+  ['driver_5fsgp41_5finterface_2eh_11',['driver_sgp41_interface.h',['../driver__sgp41__interface_8h.html',1,'']]],
+  ['driver_5fsgp41_5finterface_5ftemplate_2ec_12',['driver_sgp41_interface_template.c',['../driver__sgp41__interface__template_8c.html',1,'']]],
+  ['driver_5fsgp41_5flink_5fdebug_5fprint_13',['DRIVER_SGP41_LINK_DEBUG_PRINT',['../group__sgp41__link__driver.html#ga77d56bc8c299a052f899bc3cd24dfbba',1,'driver_sgp41.h']]],
+  ['driver_5fsgp41_5flink_5fdelay_5fms_14',['DRIVER_SGP41_LINK_DELAY_MS',['../group__sgp41__link__driver.html#ga128c0d85231e43d1ef1a0275a82442a5',1,'driver_sgp41.h']]],
+  ['driver_5fsgp41_5flink_5fiic_5fdeinit_15',['DRIVER_SGP41_LINK_IIC_DEINIT',['../group__sgp41__link__driver.html#gaf40377ac0bf1bf658f997a22d89887ad',1,'driver_sgp41.h']]],
+  ['driver_5fsgp41_5flink_5fiic_5finit_16',['DRIVER_SGP41_LINK_IIC_INIT',['../group__sgp41__link__driver.html#ga67ce5326ea232012f87cbd72e7208d4c',1,'driver_sgp41.h']]],
+  ['driver_5fsgp41_5flink_5fiic_5fread_5fcommand_17',['DRIVER_SGP41_LINK_IIC_READ_COMMAND',['../group__sgp41__link__driver.html#ga1a5a65d8c5a18fb3fbe6487f9b78c618',1,'driver_sgp41.h']]],
+  ['driver_5fsgp41_5flink_5fiic_5fwrite_5fcommand_18',['DRIVER_SGP41_LINK_IIC_WRITE_COMMAND',['../group__sgp41__link__driver.html#ga95809a49778a027f3e1937916dc2dcb7',1,'driver_sgp41.h']]],
+  ['driver_5fsgp41_5flink_5finit_19',['DRIVER_SGP41_LINK_INIT',['../group__sgp41__link__driver.html#ga3c1c479cfdb573b5291ec4fa32e93e8a',1,'driver_sgp41.h']]],
+  ['driver_5fsgp41_5fread_5ftest_2ec_20',['driver_sgp41_read_test.c',['../driver__sgp41__read__test_8c.html',1,'']]],
+  ['driver_5fsgp41_5fread_5ftest_2eh_21',['driver_sgp41_read_test.h',['../driver__sgp41__read__test_8h.html',1,'']]],
+  ['driver_5fsgp41_5fregister_5ftest_2ec_22',['driver_sgp41_register_test.c',['../driver__sgp41__register__test_8c.html',1,'']]],
+  ['driver_5fsgp41_5fregister_5ftest_2eh_23',['driver_sgp41_register_test.h',['../driver__sgp41__register__test_8h.html',1,'']]],
+  ['driver_5fversion_24',['driver_version',['../structsgp41__info__s.html#a41b0bd442708b70d252c50b92c75265a',1,'sgp41_info_s']]],
+  ['driver_5fversion_25',['DRIVER_VERSION',['../driver__sgp41_8c.html#ae578001fe043b4cca7a0edd801cfe9c4',1,'driver_sgp41.c']]]
+];
