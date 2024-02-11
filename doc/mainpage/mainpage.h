@@ -1,6 +1,6 @@
 /**
  * @mainpage  LibDriver SGP41
- * @brief     libdriver sgp41 is a full function driver of sgp41 and it can run in both MCU and Linux platform.
+ * @brief     LibDriver SGP41 is a full function driver of SGP41 and it can run in both MCU and Linux platform.
  * @version   1.0.0
  * @author    Shifeng Li
  *
