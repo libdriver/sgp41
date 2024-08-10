@@ -8,7 +8,7 @@
 
 [![MISRA](https://img.shields.io/badge/misra-compliant-brightgreen.svg)](/misra/README.md) [![API](https://img.shields.io/badge/api-reference-blue.svg)](https://www.libdriver.com/docs/sgp41/index.html) [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](/LICENSE)
 
-SGP41是一款數位氣體感測器，設計用於輕鬆集成到空氣淨化器或按需控制的通風系統中。 Sensionon的CMOSens ® 科技在單個晶片上提供了一個完整、易於使用的感測器系統，該系統具有數位I2C介面和溫度控制的微型加熱板，可提供一個VOC和一個基於NOx的室內空氣品質訊號。 傳感元件和氣體指數算灋都具有對現實世界應用中存在的污染氣體無與倫比的魯棒性，能够實現獨特的長期穩定性和低漂移。 非常小的2.44 x 2.44 x 0.85毫米3 DFN封裝可在有限的空間內應用。 Sensionon最先進的生產工藝保證了高再現性和可靠性。 膠帶和卷軸包裝以及對標準SMD組裝工藝的適用性使SGP41註定適用於大批量應用。
+SGP41是一款數位氣體感測器，設計用於輕鬆集成到空氣淨化器或按需控制的通風系統中。 Sensionon的CMOSens ® 科技在單個晶片上提供了一個完整、易於使用的感測器系統，該系統具有數位I2C介面和溫度控制的微型加熱板，可提供一個VOC和一個基於NOx的室內空氣品質訊號。 傳感元件和氣體指數算灋具有對實際應用污染氣體無與倫比的魯棒性，能够實現獨特的長期穩定性和低漂移。 非常小的2.44 x 2.44 x 0.85毫米3 DFN封裝可在有限的空間內應用。 Sensionon最先進的生產工藝保證了高再現性和可靠性。 膠帶和卷軸包裝以及對標準SMD組裝工藝的適用性使SGP41註定適用於大批量應用。
 
 LibDriver SGP41是LibDriver推出的SGP41全功能驅動，該驅動提供VOC、NOX讀取、溫濕度矯正等功能並且它符合MISRA標準。
 
