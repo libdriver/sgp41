@@ -109,10 +109,10 @@ uint8_t sgp41_basic_deinit(void)
 
 /**
  * @brief      basic example read
- * @param[in]  temperature is the current temperature in C
- * @param[in]  humidity is the current humidity in %
- * @param[out] *voc_gas_index points to a voc gas index buffer
- * @param[out] *nox_gas_index points to a nox gas index buffer
+ * @param[in]  temperature current temperature in C
+ * @param[in]  humidity current humidity in %
+ * @param[out] *voc_gas_index pointer to a voc gas index buffer
+ * @param[out] *nox_gas_index pointer to a nox gas index buffer
  * @return     status code
  *             - 0 success
  *             - 1 read failed
@@ -164,8 +164,8 @@ uint8_t sgp41_basic_read(float temperature, float humidity, int32_t *voc_gas_ind
 
 /**
  * @brief      basic example read without compensation
- * @param[out] *voc_gas_index points to a voc gas index buffer
- * @param[out] *nox_gas_index points to a nox gas index buffer
+ * @param[out] *voc_gas_index pointer to a voc gas index buffer
+ * @param[out] *nox_gas_index pointer to a nox gas index buffer
  * @return     status code
  *             - 0 success
  *             - 1 read failed
@@ -197,7 +197,7 @@ uint8_t sgp41_basic_read_without_compensation(int32_t *voc_gas_index, int32_t *n
 
 /**
  * @brief      basic example get serial id
- * @param[out] *id points to an id buffer
+ * @param[out] *id pointer to an id buffer
  * @return     status code
  *             - 0 success
  *             - 1 get serial id failed
