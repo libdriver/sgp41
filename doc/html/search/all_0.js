@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['chip_5fname_0',['chip_name',['../structsgp41__info__s.html#af890958c72bd715cc6454a10dc846ae6',1,'sgp41_info_s']]],
-  ['chip_5fname_1',['CHIP_NAME',['../driver__sgp41_8c.html#adc9da0a24824ca1239b593f6459b3954',1,'driver_sgp41.c']]]
+  ['algorithm_20function_0',['sgp41 algorithm function',['../group__sgp41__algorithm.html',1,'']]]
 ];

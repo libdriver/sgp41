@@ -10,7 +10,7 @@
 
 The SGP41 is a digital gas sensor designed for easy integration into air purifier s or demand controlled ventilation systems. Sensirion’s CMOSens ® technology offers a complete , easy to use sensor system on a single chip featuring a digital I 2 C interface and temperature controlled micro hotplates, providing one VOC and one NO x based indoor air quality signal . Both sensing element and Gas Index Algorithm feature an unmatched robustness against contaminating gases present in real world applications enabling a unique long term stability as well as low drift. The very small 2.44 x 2.44 x 0.85 mm 3 DFN package enables applications in limited spaces. Sensirion’s state of the art production process guarantees high reproducibility and reliability. Tape and reel packaging together with suitability for standard SMD assembly processes make the SGP41 predestined for high volume applications.
 
-LibDriver SGP41 is a full-featured driver of SGP41 launched by LibDriver.It provides VOC, NOX reading, temperature and humidity correction and other functions. LibDriver is MISRA compliant.
+LibDriver SGP41 is a full-featured driver for SGP41, launched by LibDriver.It provides VOC && NOX reading, temperature && humidity correction and additional features. LibDriver is MISRA compliant.
 
 ### Table of Contents
 
