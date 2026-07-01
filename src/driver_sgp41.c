@@ -271,7 +271,7 @@ uint8_t sgp41_temperature_convert_to_register(sgp41_handle_t *handle, float temp
         return 3;                                                 /* return error */
     }
     
-    *reg = (uint16_t)((temp + 45.0f) / 175.0f * 65535.0f);        /* convert the humidity */
+    *reg = (uint16_t)((temp + 45.0f) / 175.0f * 65535.0f);        /* convert the temperature */
     
     return 0;                                                     /* success return 0 */
 }
@@ -310,16 +310,16 @@ uint8_t sgp41_get_execute_conditioning(sgp41_handle_t *handle, uint16_t *sraw_vo
     input[4] = 0x66;                                                                                   /* index 4 */
     input[5] = 0x93;                                                                                   /* index 5 */
     res = a_sgp41_iic_read_with_param(handle, SGP41_COMMAND_EXECUTE_CONDITIONING, input, 6, 50, 
-                                      buf, 3);                                                         /* read measure raw */
+                                      buf, 3);                                                         /* get execute conditioning */
     if (res != 0)                                                                                      /* check result */
     {
-        handle->debug_print("sgp41: read measure raw failed.\n");                                      /* read measure failed */
+        handle->debug_print("sgp41: get execute conditioning failed.\n");                              /* get execute conditioning failed */
        
         return 1;                                                                                      /* return error */
     }
     if (buf[2] != a_sgp41_generate_crc((uint8_t *)buf, 2))                                             /* check 1st crc */
     {
-        handle->debug_print("sgp41: sraw voc crc check error.\n");                                     /* sraw voc crc check error */
+        handle->debug_print("sgp41: crc check error.\n");                                              /* crc check error */
        
         return 1;                                                                                      /* return error */
     }
